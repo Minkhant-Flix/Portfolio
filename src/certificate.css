@@ -1,0 +1,10 @@
+html{
+    scroll-behavior: smooth;
+}
+.mk-card{
+    transition: all 0.5s;
+}
+.mk-card:hover{
+    transform: translateY(-10px);
+}
+
